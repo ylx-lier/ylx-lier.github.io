@@ -4,6 +4,32 @@
   
   
   <entry>
+    <title>test</title>
+    <link href="/2023/12/13/test/"/>
+    <url>/2023/12/13/test/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>hexo常用命令</title>
+    <link href="/2023/12/12/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    <url>/2023/12/12/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>是有markdown语法的呀，为啥去年那篇渲染不出公式。。 测试： 1.<strong>激活函数（Activation Function）：</strong>是一个非线性函数，它被应用于神经元的加权和，将其转换为神经元的输出。激活函数的引入是为了引入非线性性，使得神经网络能够学习和表示更复杂的函数。常见的激活函数包括：- <strong>Sigmoid 函数：</strong> <span class="math inline">\(f(x) =\frac{1}{1 + e^{-x}}\)</span> - <strong>Tanh 函数：</strong> <spanclass="math inline">\(f(x) = \frac{e^{x} - e^{-x}}{e^{x} +e^{-x}}\)</span> - <strong>ReLU 函数（Rectified Linear Unit）：</strong><span class="math inline">\(f(x) = \max(0, x)\)</span> - <strong>Softmax函数（通常用于多类别分类）：</strong> <span class="math inline">\(f_i(x)= \frac{e^{x_i}}{\sum_{j} e^{x_j}}\)</span></p><ol start="2" type="1"><li><strong>激活函数（Activation Function）：</strong>是一个非线性函数，它被应用于神经元的加权和，将其转换为神经元的输出。激活函数的引入是为了引入非线性性，使得神经网络能够学习和表示更复杂的函数。常见的激活函数包括：<ul><li><strong>Sigmoid 函数：</strong> ( f(x) = )</li><li><strong>Tanh 函数：</strong> ( f(x) = )</li><li><strong>ReLU 函数（Rectified Linear Unit）：</strong> ( f(x) = (0,x) )</li><li><strong>Softmax 函数（通常用于多类别分类）：</strong> ( f_i(x) =)</li></ul></li></ol><figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><code class="hljs awk">npm install hexo -g   <span class="hljs-regexp">//</span>安装  <br>npm update hexo -g   <span class="hljs-regexp">//</span>升级 <br>hexo version        <span class="hljs-regexp">//</span>查看hexo的版本<br>hexo init nodejs-hexo   <span class="hljs-regexp">//</span>创建nodejs-hexo 名字的本地文件<br>hexo init nodejs-hexo    <span class="hljs-regexp">//</span>创建博客<br>hexo init blog          <span class="hljs-regexp">//</span>初始化，生成文件夹为blog<br>cd blog               <span class="hljs-regexp">//</span>进入blog文件夹<br>npm install            <span class="hljs-regexp">//</span>安装依赖库<br>hexo generate           <span class="hljs-regexp">//</span>生成一套静态网页<br>hexo server         <span class="hljs-regexp">//</span>运行测试,浏览器打开地址，http:<span class="hljs-regexp">//</span>localhost:<span class="hljs-number">4000</span>/<br>hexo deploy         <span class="hljs-regexp">//</span>进行部署<br><br>hexo new <span class="hljs-string">&quot;new article&quot;</span>  <span class="hljs-regexp">//</span>新建文章‘new article’<br>hexo new page <span class="hljs-string">&quot;about&quot;</span>  <span class="hljs-regexp">//</span>新建页面 ‘about’<br><br>hexo n <span class="hljs-string">&quot;我的博客&quot;</span>` == `hexo new` <span class="hljs-string">&quot;我的博客&quot;</span>    <span class="hljs-regexp">//</span>新建文章<br>hexo g == hexo generate        <span class="hljs-regexp">//</span>生成`<br>hexo s == hexo server          <span class="hljs-regexp">//</span>启动服务预览<br>hexo d == hexo deploy          <span class="hljs-regexp">//</span>部署<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>卸载了好多游戏</title>
     <link href="/2023/12/12/%E5%8D%B8%E8%BD%BD%E4%BA%86%E5%A5%BD%E5%A4%9A%E6%B8%B8%E6%88%8F/"/>
     <url>/2023/12/12/%E5%8D%B8%E8%BD%BD%E4%BA%86%E5%A5%BD%E5%A4%9A%E6%B8%B8%E6%88%8F/</url>
@@ -34,7 +60,7 @@
     <link href="/2022/09/15/9-15/"/>
     <url>/2022/09/15/9-15/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>$f(x)&#x3D;2a(1+cos(x))$</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><span class="math inline">\(f(x)=2a(1+cos(x))\)</span></p>]]></content>
     
     
     
@@ -60,7 +86,7 @@
     <link href="/2022/09/12/hello-world/"/>
     <url>/2022/09/12/hello-world/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your veryfirst post. Check <a href="https://hexo.io/docs/">documentation</a> formore info. If you get any problems when using Hexo, you can find theanswer in <ahref="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> oryou can ask me on <ahref="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start">Quick Start</h2><h3 id="create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
     
