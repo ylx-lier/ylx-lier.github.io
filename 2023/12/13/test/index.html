@@ -16,13 +16,15 @@
   <meta name="author" content="LiER">
   <meta name="keywords" content="">
   
-    <meta property="og:type" content="article">
+    <meta name="description" content="星号和下划线在改变字体样式上的效果是一样的 强调 强调 printf() 123A single backtick in a code span:A backtick-delimited string in a code span: &#96;&#96; &#96;foo&#96; &#96;&#96; numpy对于一维矩阵的表示是不一样的 譬如 12345x &#x3D; np.array([1,2])y &#x3D; np.array([[1],[2">
+<meta property="og:type" content="article">
 <meta property="og:title" content="test">
 <meta property="og:url" content="http://example.com/2023/12/13/test/index.html">
 <meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="星号和下划线在改变字体样式上的效果是一样的 强调 强调 printf() 123A single backtick in a code span:A backtick-delimited string in a code span: &#96;&#96; &#96;foo&#96; &#96;&#96; numpy对于一维矩阵的表示是不一样的 譬如 12345x &#x3D; np.array([1,2])y &#x3D; np.array([[1],[2">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2023-12-13T03:41:41.000Z">
-<meta property="article:modified_time" content="2023-12-13T03:41:41.779Z">
+<meta property="article:modified_time" content="2023-12-16T04:30:56.711Z">
 <meta property="article:author" content="LiER">
 <meta name="twitter:card" content="summary_large_image">
   
@@ -223,7 +225,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          0 字
+          283 字
         
       </span>
     
@@ -234,7 +236,7 @@
         
         
         
-          1 分钟
+          3 分钟
         
       </span>
     
@@ -285,7 +287,14 @@
             
               <div class="markdown-body">
                 
-                
+                <p>星号和下划线在改变字体样式上的效果是一样的</p>
+<p><strong>强调</strong> <strong>强调</strong></p>
+<p><code>printf()</code></p>
+<figure class="highlight less"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs less"><span class="hljs-selector-tag">A</span> <span class="hljs-selector-tag">single</span> <span class="hljs-selector-tag">backtick</span> <span class="hljs-selector-tag">in</span> <span class="hljs-selector-tag">a</span> <span class="hljs-selector-tag">code</span> <span class="hljs-selector-tag">span</span>:<br><br><span class="hljs-selector-tag">A</span> <span class="hljs-selector-tag">backtick-delimited</span> <span class="hljs-selector-tag">string</span> <span class="hljs-selector-tag">in</span> <span class="hljs-selector-tag">a</span> <span class="hljs-selector-tag">code</span> <span class="hljs-selector-tag">span</span>: `` `<span class="hljs-selector-tag">foo</span>` ``<br></code></pre></td></tr></table></figure>
+<p>numpy对于一维矩阵的表示是不一样的 譬如 <figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs stylus">x = np<span class="hljs-selector-class">.array</span>(<span class="hljs-selector-attr">[1,2]</span>)<br>y = np<span class="hljs-selector-class">.array</span>(<span class="hljs-selector-attr">[[1]</span>,<span class="hljs-selector-attr">[2]</span>])<br><span class="hljs-function"><span class="hljs-title">print</span><span class="hljs-params">(x.shape)</span></span><br><span class="hljs-function"><span class="hljs-title">print</span><span class="hljs-params">(y.shape)</span></span><br><br></code></pre></td></tr></table></figure></p>
+<p>一维矩阵（1×n）只用一个【】就可以，shape也只会显示（n,
+1）(也就是一行多少个元素).
+数据集划分这里我感觉有点问题，假如有些特征只在测试集里出现应该怎么办。</p>
 
                 
               </div>
