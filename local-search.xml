@@ -4,6 +4,32 @@
   
   
   <entry>
+    <title>stable</title>
+    <link href="/2024/01/02/stable/"/>
+    <url>/2024/01/02/stable/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>stable diffusion初尝试</title>
+    <link href="/2024/01/02/lora/"/>
+    <url>/2024/01/02/lora/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>想学学lora+sd的方法进行训练。 贴几个网站：<ahref="https://blog.csdn.net/wangqingpei557/article/details/130049592?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=stable%20diffusion%20%E6%A8%A1%E5%9E%8B%E8%87%AA%E5%B7%B1%E8%AE%AD%E7%BB%83&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-4-130049592.142%5Ev99%5Epc_search_result_base2&amp;spm=1018.2226.3001.4187">stablediffusion打造自己专属的LORA模型_stable diffusion lora-CSDN博客</a> <ahref="https://zhuanlan.zhihu.com/p/624230991?utm_id=0">什么是LoRA模型，如何使用和训练LoRA模型？你想要的都在这！- 知乎 (zhihu.com)</a> <ahref="https://zhuanlan.zhihu.com/p/639229126">深入浅出完整解析LoRA(Low-RankAdaptation)模型核心基础知识 - 知乎 (zhihu.com)</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>test</title>
     <link href="/2023/12/13/test/"/>
     <url>/2023/12/13/test/</url>
